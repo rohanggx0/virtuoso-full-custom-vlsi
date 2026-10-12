@@ -149,5 +149,5 @@ All five custom macro blocks were subjected to rigorous physical verification:
 
 ## 7. Author & Acknowledgements
 
-* **Design Author:** RA2411004010364
+* **Design Author:** Rohan Chakraborty
 * **CAD Tools:** Cadence Virtuoso IC Design Suite, Spectre Circuit Simulator, Virtuoso Layout Suite, Physical Verification DRC/LVS.
