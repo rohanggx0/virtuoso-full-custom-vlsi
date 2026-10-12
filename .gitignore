@@ -1,0 +1,20 @@
+# Cadence Virtuoso temporary and log files
+*.log
+*.log.*
+*.dat
+*.cdslck*
+*~
+*.swp
+*.tmp
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Python scratch / cache files
+__pycache__/
+*.py[cod]
+*$py.class
